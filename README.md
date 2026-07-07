@@ -9,7 +9,7 @@ A responsive Spotify web player built with **HTML** and **CSS**.
 - Clean UI matching Spotify’s look
 
 ## Screenshots
-
+![Spotify Demo](https://github.com/Hanif-IT/Spotify-web-demo-public/raw/main/Spotify-web-demo-public.png)
 
 
 ## How to Run
